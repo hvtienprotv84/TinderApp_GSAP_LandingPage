@@ -2,6 +2,7 @@
 
 - HTML
 - JavaScript
+- GSAP
 - Tailwind CSS
 - Remix Icon
 
